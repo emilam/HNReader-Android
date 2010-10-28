@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">HNReader</string>
+    <string name="tab_current_label">Current</string>
+    <string name="tab_top_label">Top</string>
+    <string name="tab_new_label">New</string>
+    
+<string name="no_articles">Unable to contact HN</string>
+<string name="list_loading">Loading. Please wait...</string>
+<string name="menu_refresh">Refresh</string>
+<string name="tab_saved_label">Saved</string>
+<string name="context_save">Save Article</string>
+<string name="context_delete">Remove Article</string>
+<string name="context_discuss">Discuss</string>
+<string name="context_instapaper">Save to Instapaper</string>
+<string name="menu_prefs">Settings</string>
+<string name="instapaper_saving">&quot;Saving to Instapaper...&quot;</string>
+<string name="no_comments">Unable to retrieve comments</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DefaultBackground" parent="android:Theme">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+</resources>

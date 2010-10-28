@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="Instapaper Settings">
+	    <EditTextPreference
+	        android:key="instapaper_username"
+	        android:title="Username"
+	        android:color="@color/title"
+	        />
+	    <EditTextPreference
+	        android:key="instapaper_password"
+	        android:title="Password"
+		    android:inputType="textPassword"
+		    android:color="@color/title"
+	        />
+	</PreferenceCategory>
+</PreferenceScreen>
